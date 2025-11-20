@@ -1,7 +1,7 @@
 # HDB Scoring Model
 
 ## Requirements
-- Python 3.10
+- Python 3.12
 - See `requirements.txt`
 
 ## How to run
